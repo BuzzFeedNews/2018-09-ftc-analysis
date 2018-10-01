@@ -1,6 +1,6 @@
 # FTC complaints about 'immigration services'-related complaints — 2006 to 2018
 
-This repository contains data, analytic code, and findings that support portions of the BuzzFeed News article, “[She Paid A Lawyer Thousands Of Dollars To Apply For A Green Card. Then she Got A Deportation Order Instead.](https://www.buzzfeednews.com/article/lamvo/undocumented-immigrants-10-year-green-card),” published September 28, 2018. Please read that article, which contains important context and details, before proceeding.
+This repository contains data, analytic code, and findings that support portions of the BuzzFeed News article, “[She Paid A Lawyer Thousands Of Dollars To Apply For A Green Card. Then She Got A Deportation Order Instead.](https://www.buzzfeednews.com/article/lamvo/undocumented-immigrants-10-year-green-card),” published September 29, 2018. Please read that article, which contains important context and details, before proceeding.
 
 ## Data
 
